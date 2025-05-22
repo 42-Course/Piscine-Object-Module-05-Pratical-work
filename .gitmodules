@@ -1,0 +1,4 @@
+[submodule "Dijkstra"]
+	path = Dijkstra
+	url = https://github.com/42-Course/Dijkstra
+	branch = main
